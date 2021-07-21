@@ -7,9 +7,10 @@ Just copy and paste the component inside of your component-folder.
 Maybe you need to change some path (e.g. relativeDirectory)
 
 Create the following folder structure inside the images-folder:<br/>
-images
-├── dektop-images
-└── mobile-images
+
+    images
+    ├── desktopImages
+    └── mobileImages
   
 Inside of your parent-component:<br />
 ```
