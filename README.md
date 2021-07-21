@@ -16,12 +16,16 @@ Inside of your parent-component:<br />
 ```
 import Image from "./common/RenderDynamicImage"
 
+{...}
+
 <Image
  alt="alternative_text"
  filenameDesktop={name_of_desktop_image.png}
  filenameMobile={name_of_mobile_image.png}
  style={{your_style}}
 />
+
+{...}
 ```
 
 
