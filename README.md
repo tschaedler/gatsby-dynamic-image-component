@@ -3,8 +3,8 @@ Generates dynamically diffrent images for desktop and mobile view, depending on 
 
 
 ## How to use ## 
-Just copy and paste the component inside of your component-folder.
-Maybe you need to change some path (e.g. relativeDirectory)
+Just copy and paste the component inside of your component-folder.<br/>
+Maybe you need to change some path inside the GraphQL query(e.g. relativeDirectory)
 
 Create the following folder structure inside the images-folder:<br/>
 
