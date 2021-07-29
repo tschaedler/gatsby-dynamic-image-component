@@ -20,9 +20,10 @@ import Image from "./common/RenderDynamicImage"
 
 <Image
  alt="alternative_text"
- filenameDesktop={name_of_desktop_image.png}
- filenameMobile={name_of_mobile_image.png}
- style={{your_style}}
+ filenameDesktop="name_of_desktop_image.png"
+ filenameMobile="name_of_mobile_image.png"
+ ClassNmae="your_classes"
+ style={{your: "style"}}
 />
 
 {...}
